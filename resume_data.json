@@ -179,23 +179,23 @@
     {
       "name": "IBM Data Science",
       "issuer": "IBM",
-      "issue_date": "",
+      "issue_date": "04/2025",
       "expires": "",
-      "credential_id": ""
+      "credential_id": "OG4UX64CN84L"
     },
     {
       "name": "IBM Data Analyst",
       "issuer": "IBM",
-      "issue_date": "",
+      "issue_date": "04/2025",
       "expires": "",
-      "credential_id": ""
+      "credential_id": "Y8LRK05E5WPW"
     },
     {
       "name": "Data Analysis & Visualization Foundations",
       "issuer": "IBM",
-      "issue_date": "",
+      "issue_date": "04/2025",
       "expires": "",
-      "credential_id": ""
+      "credential_id": "WL0V8REFZGER"
     },
     {
       "name": "Generative AI for Data Scientists",
@@ -226,11 +226,11 @@
       "credential_id": "09J7G3ZMD9GI"
     },
     {
-      "name": "ADP Compensation & Benefits Analyst",
+      "name": "ADP Entry-Level Compensation and Benefits Analyst",
       "issuer": "ADP",
-      "issue_date": "",
+      "issue_date": "04/2025",
       "expires": "",
-      "credential_id": ""
+      "credential_id": "OFUFOSQ294A8"
     }
   ]
 }

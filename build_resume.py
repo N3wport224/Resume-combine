@@ -113,7 +113,10 @@ for cert in d["certifications"]:
     if cert.get("issuer"):
         s += f', {E(cert["issuer"])}'
     if cert.get("issue_date"):
-        s += f' ({E(cert["issue_date"])})'
+        if cert.get("expires"):
+            s += f' ({E(cert["issue_date"])}&nbsp;&ndash;&nbsp;{E(cert["expires"])})'
+        else:
+            s += f' ({E(cert["issue_date"])})'
     cert_strs.append(s)
 story.append(Paragraph("&nbsp;|&nbsp; ".join(cert_strs), S["body"]))
 

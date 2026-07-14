@@ -151,9 +151,9 @@
     {
       "name": "Google Data Analytics",
       "issuer": "Google",
-      "issue_date": "",
+      "issue_date": "04/2025",
       "expires": "",
-      "credential_id": ""
+      "credential_id": "IMCANTX2Z0Y7"
     },
     {
       "name": "Google Business Intelligence",
@@ -170,11 +170,18 @@
       "credential_id": "2VHL6XT26G0Z"
     },
     {
+      "name": "Google IT Support",
+      "issuer": "Google",
+      "issue_date": "04/2025",
+      "expires": "",
+      "credential_id": "CMK9CY1WVDN3"
+    },
+    {
       "name": "IBM AI Engineering",
       "issuer": "IBM",
-      "issue_date": "",
+      "issue_date": "04/2025",
       "expires": "",
-      "credential_id": ""
+      "credential_id": "J5OEBSSKTPCE"
     },
     {
       "name": "IBM Data Science",
@@ -214,9 +221,9 @@
     {
       "name": "Microsoft Program Management",
       "issuer": "Microsoft",
-      "issue_date": "",
+      "issue_date": "04/2025",
       "expires": "",
-      "credential_id": ""
+      "credential_id": "A1EC9G2TAZV1"
     },
     {
       "name": "ADP Entry-Level Payroll Specialist",

@@ -137,16 +137,16 @@
     {
       "name": "Certified ScrumMaster (CSM)",
       "issuer": "Scrum Alliance",
-      "issue_date": "",
-      "expires": "",
-      "credential_id": ""
+      "issue_date": "05/2026",
+      "expires": "05/2028",
+      "credential_id": "2190893"
     },
     {
       "name": "Google Project Management",
       "issuer": "Google",
-      "issue_date": "",
+      "issue_date": "04/2025",
       "expires": "",
-      "credential_id": ""
+      "credential_id": "CBH99NRM53PO"
     },
     {
       "name": "Google Data Analytics",
@@ -161,6 +161,13 @@
       "issue_date": "",
       "expires": "",
       "credential_id": ""
+    },
+    {
+      "name": "Google Cybersecurity",
+      "issuer": "Google",
+      "issue_date": "04/2025",
+      "expires": "",
+      "credential_id": "2VHL6XT26G0Z"
     },
     {
       "name": "IBM AI Engineering",
@@ -193,9 +200,9 @@
     {
       "name": "Generative AI for Data Scientists",
       "issuer": "IBM",
-      "issue_date": "",
+      "issue_date": "04/2025",
       "expires": "",
-      "credential_id": ""
+      "credential_id": "FSJ5JCFCXM45"
     },
     {
       "name": "Microsoft Project Management",
@@ -212,11 +219,11 @@
       "credential_id": ""
     },
     {
-      "name": "ADP Payroll Specialist",
+      "name": "ADP Entry-Level Payroll Specialist",
       "issuer": "ADP",
-      "issue_date": "",
+      "issue_date": "04/2025",
       "expires": "",
-      "credential_id": ""
+      "credential_id": "09J7G3ZMD9GI"
     },
     {
       "name": "ADP Compensation & Benefits Analyst",

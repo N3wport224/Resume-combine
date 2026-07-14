@@ -1,0 +1,92 @@
+{
+  "name": "Andrew Perez",
+  "contact": {
+    "location": "Lone Tree, CO",
+    "phone": "(657) 259-8424",
+    "email": "APerezJobs@gmail.com",
+    "linkedin": "linkedin.com/in/andrewperez1"
+  },
+  "summary": "Process-driven IT Project Manager and operations leader with an MBA in IT Management and a Certified ScrumMaster (CSM) credential. Specializes in turning complex operational challenges into structured, scalable workflows across business intelligence, systems analysis, and agile team coordination. Currently at Xcel Energy, bridging organizational divisions and external partners to stabilize data integrity, track core assets, and resolve escalated systemic bottlenecks—consistently delivering on-time, cross-functional results.",
+  "skills": [
+    "Operations Coordination", "Cross-Functional Team Leadership", "Vendor & Supplier Management",
+    "Project Strategy & Delivery", "Agile & Scrum Frameworks", "Systems & Data Analysis",
+    "Business Intelligence (BI)", "Predictive Dashboards", "Process Optimization", "Risk Management",
+    "Inventory Control", "Data Processing & Analysis", "MS Excel (Pivot Tables, Lookups)", "SSH / Command Line"
+  ],
+  "experience": [
+    {
+      "title": "Digital Lead", "company": "Xcel Energy", "location": "Minneapolis, MN",
+      "start": "08/2022", "end": "Present",
+      "bullets": [
+        "Lead cross-functional digital process implementations across multi-state operations to align field workflows with enterprise strategic objectives; serve as primary operational link between utility division leads, regional project managers, and legacy technology teams.",
+        "Synthesize, audit, and track operational assets and compliance records across complex relational databases to ensure high data fidelity.",
+        "Champion Agile/Scrum best practices to accelerate resource allocation, streamline maintenance workflows, and eliminate procedural drag.",
+        "Manage key vendor partnerships, establishing operational KPIs and resolving high-level systemic bottlenecks to secure seamless service delivery."
+      ]
+    },
+    {
+      "title": "Strategic Account Specialist", "company": "AutoZone", "location": "Robbinsdale, MN",
+      "start": "10/2021", "end": "10/2022",
+      "bullets": [
+        "Managed high-volume B2B accounts as the commercial liaison between corporate clients, logistics providers, and procurement systems.",
+        "Evaluated high-volume invoicing data, spot-checking variance anomalies and tracking supplier cost drivers to safeguard margin performance.",
+        "Orchestrated demand-planning cycles, analyzing supplier pricing models and lead times to stabilize inventory pipelines.",
+        "Led and coached a sales team with metrics-driven playbooks to scale operational capacity and surpass growth targets."
+      ]
+    },
+    {
+      "title": "Warehouse Team Lead", "company": "MWI Animal Health", "location": "Shakopee, MN",
+      "start": "08/2019", "end": "11/2019",
+      "bullets": [
+        "Directed daily fulfillment logistics and resource planning across a high-throughput distribution center.",
+        "Engineered and audited inventory distribution frameworks to maximize fulfillment velocity and reduce shrinkage.",
+        "Coordinated with external 3PL providers and freight partners, renegotiating fulfillment touchpoints to optimize operational costs."
+      ]
+    },
+    {
+      "title": "Store Operations Coordinator", "company": "Google Express", "location": "Maple Grove, MN",
+      "start": "08/2017", "end": "06/2019",
+      "bullets": [
+        "Orchestrated cross-functional systems coordination and data-integrity workflows supporting platform reliability and business intelligence reporting.",
+        "Developed and tested end-to-end protocols for internal IT frameworks, isolating operational errors and validating system functionality against business requirements.",
+        "Engineered data tracking models and reporting outputs used by engineering teams to document specifications for technology dashboards.",
+        "Collaborated with stakeholders and development leads to translate raw data needs into structured process improvements."
+      ]
+    },
+    {
+      "title": "Project Manager", "company": "Advanced E-Media, Inc. / WebJaguar E-Commerce", "location": "",
+      "start": "08/2013", "end": "10/2014",
+      "bullets": [
+        "Managed digital data workflows, asset tracking, and customer operations coordination for an e-commerce platform.",
+        "Maintained high-accuracy entry and auditing of client project records to ensure data fidelity.",
+        "Partnered with cross-functional teams to streamline scheduling, clear fulfillment delays, and resolve account-level dependencies."
+      ]
+    }
+  ],
+  "earlier_experience": [
+    {"title": "Service Technician", "company": "Apex Technical Solutions", "location": "", "start": "09/2012", "end": "07/2013"},
+    {"title": "Technician", "company": "GKN Aerospace", "location": "", "start": "04/2010", "end": "07/2010"},
+    {"title": "Senior Customer Service Representative", "company": "Union Bank", "location": "Newport Beach, CA", "start": "05/2008", "end": "06/2009"},
+    {"title": "Operations Specialist", "company": "TVT Community Day School", "location": "Irvine, CA", "start": "06/2006", "end": "08/2012"}
+  ],
+  "education": [
+    {"degree": "Master of Business Administration (MBA), IT Management", "school": "Western Governors University", "start": "", "end": ""},
+    {"degree": "Bachelor of Science (BS), Psychology", "school": "University of Minnesota, Minneapolis, MN", "start": "01/2019", "end": "12/2022"}
+  ],
+  "education_honors": "Three University Excellence Awards (Ethical Leadership; Organizational Management)",
+  "certifications": [
+    {"name": "Certified ScrumMaster (CSM)", "issuer": "Scrum Alliance", "issue_date": "", "credential_id": ""},
+    {"name": "Google Project Management", "issuer": "Google", "issue_date": "", "credential_id": ""},
+    {"name": "Google Data Analytics", "issuer": "Google", "issue_date": "", "credential_id": ""},
+    {"name": "Google Business Intelligence", "issuer": "Google", "issue_date": "", "credential_id": ""},
+    {"name": "IBM AI Engineering", "issuer": "IBM", "issue_date": "", "credential_id": ""},
+    {"name": "IBM Data Science", "issuer": "IBM", "issue_date": "", "credential_id": ""},
+    {"name": "IBM Data Analyst", "issuer": "IBM", "issue_date": "", "credential_id": ""},
+    {"name": "Data Analysis & Visualization Foundations", "issuer": "IBM", "issue_date": "", "credential_id": ""},
+    {"name": "Generative AI for Data Scientists", "issuer": "IBM", "issue_date": "", "credential_id": ""},
+    {"name": "Microsoft Project Management", "issuer": "Microsoft", "issue_date": "", "credential_id": ""},
+    {"name": "Microsoft Program Management", "issuer": "Microsoft", "issue_date": "", "credential_id": ""},
+    {"name": "ADP Payroll Specialist", "issuer": "ADP", "issue_date": "", "credential_id": ""},
+    {"name": "ADP Compensation & Benefits Analyst", "issuer": "ADP", "issue_date": "", "credential_id": ""}
+  ]
+}

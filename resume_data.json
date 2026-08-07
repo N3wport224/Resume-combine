@@ -135,6 +135,14 @@
   "education_honors": "Three University Excellence Awards (Ethical Leadership; Organizational Management)",
   "certifications": [
     {
+      "name": "Associate Systems Engineering Professional (ASEP)",
+      "issuer": "INCOSE / Colorado State University",
+      "expected": "12/2026",
+      "issue_date": "",
+      "expires": "",
+      "credential_id": ""
+    },
+    {
       "name": "Certified ScrumMaster (CSM)",
       "issuer": "Scrum Alliance",
       "issue_date": "05/2026",

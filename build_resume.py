@@ -2,7 +2,8 @@
 """Generate an ATS-optimized, single-column PDF resume from resume_data.json.
 
 All dates render as MM/YYYY (or 'Present'). Certifications display their issue
-date in (MM/YYYY) whenever the data provides one.
+date in (MM/YYYY) whenever the data provides one; a cert that is in progress
+uses "expected" instead and renders as (Expected MM/YYYY).
 """
 import json, html, sys
 from reportlab.lib.pagesizes import LETTER
@@ -112,7 +113,9 @@ for cert in d["certifications"]:
     s = E(cert["name"])
     if cert.get("issuer"):
         s += f', {E(cert["issuer"])}'
-    if cert.get("issue_date"):
+    if cert.get("expected"):
+        s += f' (Expected {E(cert["expected"])})'
+    elif cert.get("issue_date"):
         if cert.get("expires"):
             s += f' ({E(cert["issue_date"])}&nbsp;&ndash;&nbsp;{E(cert["expires"])})'
         else:
